@@ -1,0 +1,37 @@
+
+#wb_canvas {
+	
+	
+	display:block;
+	
+	
+	margin:5px auto 0px auto;
+	padding:0px;
+	
+	
+	background:#ffffff;
+
+	
+	
+	
+	-webkit-touch-callout: none;
+   	-webkit-user-select: none;
+   	-khtml-user-select: none;
+   	-moz-user-select: none;
+   	-ms-user-select: none;
+   	user-select: none;
+   	
+   	/*
+   	background-image: url("http://david.voidms.com/drag/images/287.jpeg");
+   	background-size:contain;
+   	background-repeat:no-repeat;
+   	background-position:center;
+	*/
+	
+	border-radius: 3px;
+	
+}
+
+#wb_canvas:hover {
+	cursor:crosshair;
+}
